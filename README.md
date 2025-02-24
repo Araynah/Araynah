@@ -18,12 +18,12 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
+## 📄 Certifications
+- [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)
+
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Araynah | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Araynah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Araynah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/araynah313
-[instagram]: https://www.instagram.com/Araynah/
-[linkedin]: https://linkedin.com/in/Araynah
+<a href="https://twitter.com/araynah313"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
+<a href="https://linkedin.com/in/Araynah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
+<a href="https://www.instagram.com/Araynah/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
+<a href="mailto:araynah1@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" /></a>
