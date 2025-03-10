@@ -1,15 +1,19 @@
-<h1>Hi, I'm Araynah!</h1>
+# Hi, I'm Araynah! 🚀  
 
 🔹 **Data Science Major** with a strong foundation in computational modeling  
 🔹 Skilled in **Python, C++, R**, and exploring other branches of computing  
 🔹 Interested in **Data Science, AI, Software Engineering, and Scientific Computing**  
-🔹 Passionate about **Graph Theory, Machine Learning, and Algorithm Design**
+🔹 Passionate about **Graph Theory, Machine Learning, and Algorithm Design**  
+
+---
 
 ## 🛠️ Skills  
-✔️ C++ | Python | R | SQL  
-✔️ Data Structures & Algorithms  
-✔️ Data Visualization | Machine Learning  
-✔️ Scientific Computing | Graph Theory 
+✔️ **Languages:** C++ | Python | R | SQL  
+✔️ **Core Concepts:** Data Structures & Algorithms | OOP | Scientific Computing  
+✔️ **Data Science:** Data Visualization | Machine Learning | Numerical Analysis  
+✔️ **Specialized Topics:** Graph Theory | Algorithmic Optimization  
+
+---
 
 ## 📂 Portfolio Overview  
 This repository contains coursework, assignments, and personal projects from my programming and data science classes.  
@@ -28,7 +32,9 @@ This repository contains coursework, assignments, and personal projects from my 
 - **Statistical Analysis & Modeling**  
 - **Data Visualization & Regression Analysis**  
 
-📌 Explore my repositories to see my projects and coursework! 
+📌 Explore my repositories to see my projects and coursework!  
+
+---
 
 ## 📌 Featured Repositories  
 - **[cpp-data-structures](https://github.com/Araynah/cpp-data-structures)** - C++ Algorithms & Data Structures  
@@ -36,13 +42,18 @@ This repository contains coursework, assignments, and personal projects from my 
 - **[python-data-science](https://github.com/Araynah/python-data-science)** - Data Analysis & Scientific Computing  
 - **[chess-bot](https://github.com/Araynah/chess-bot)** - AI-powered Chess Game  
 
+---
 
-## 📄 Certifications
-- [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)
+## 📄 Certifications  
+- [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)  
 
-<h2> 🤳 Connect with me:</h2>
+---
+
+## 🤳 Connect with Me  
 
 <a href="https://twitter.com/araynah313"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
 <a href="https://linkedin.com/in/Araynah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
 <a href="https://www.instagram.com/Araynah/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
-<a href="mailto:araynah1@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" /></a>
+<a href="mailto:araynah1@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" /></a>  
+
+---
