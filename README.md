@@ -1,22 +1,41 @@
 <h1>Hi, I'm Araynah!</h1>
 
-<h2>👨‍💻 Topic of section here:</h2>
+🔹 **Data Science Major** with a strong foundation in computational modeling  
+🔹 Skilled in **Python, C++, R**, and exploring other branches of computing  
+🔹 Interested in **Data Science, AI, Software Engineering, and Scientific Computing**  
+🔹 Passionate about **Graph Theory, Machine Learning, and Algorithm Design**
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in C++](Lint to repo here!!)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Name](link to repo)
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+## 🛠️ Skills  
+✔️ C++ | Python | R | SQL  
+✔️ Data Structures & Algorithms  
+✔️ Data Visualization | Machine Learning  
+✔️ Scientific Computing | Graph Theory 
+
+## 📂 Portfolio Overview  
+This repository contains coursework, assignments, and personal projects from my programming and data science classes.  
+
+### 🔹 C++ Projects  
+- **Data Structures & Algorithms** (Stacks, Queues, Trees, Graphs, Sorting, Searching)  
+- **Object-Oriented Programming** (Classes, Pointers, Memory Management)  
+- **Graph Theory & Algorithmic Complexity**  
+
+### 🔹 Python Projects  
+- **Scientific Computing & Data Science** (Numerical Methods, Data Analysis, Visualization)  
+- **Machine Learning & Simulation**  
+- **Algorithmic Efficiency & Optimization**  
+
+### 🔹 R Projects  
+- **Statistical Analysis & Modeling**  
+- **Data Visualization & Regression Analysis**  
+
+📌 Explore my repositories to see my projects and coursework! 
+
+## 📌 Featured Repositories  
+- **[cpp-data-structures](https://github.com/Araynah/cpp-data-structures)** - C++ Algorithms & Data Structures  
+- **[python-programming](https://github.com/Araynah/python-programming)** - Python Fundamentals, OOP, and Algorithms  
+- **[python-data-science](https://github.com/Araynah/python-data-science)** - Data Analysis & Scientific Computing  
+- **[chess-bot](https://github.com/Araynah/chess-bot)** - AI-powered Chess Game  
+
 
 ## 📄 Certifications
 - [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)
