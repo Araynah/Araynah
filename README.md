@@ -40,7 +40,7 @@ This repository contains coursework, assignments, and personal projects from my 
 - **[cpp-data-structures](https://github.com/Araynah/cpp-data-structures)** - C++ Data Structures & Algorithms Projects
 - **[cpp-labs](https://github.com/Araynah/cpp-labs)** - C++ Lab Exercises & Algorithm Implementations
 - **[python-programming](https://github.com/Araynah/python-programming)** - Python Fundamentals, OOP, and Algorithms  
-- **[python-data-science](https://github.com/Araynah/data-science-coursework)** - Data Analysis & Scientific Computing  
+- **[data-science (Python & R)](https://github.com/Araynah/data-science-coursework)** - Data Analysis & Scientific Computing  
 - **[chess-bot](https://github.com/Araynah/chess-bot)** - AI-powered Chess Game  
 
 ---
