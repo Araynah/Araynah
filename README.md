@@ -1,60 +1,69 @@
-# Hi, I'm Araynah! 🚀  
+# Hi, I'm Araynah! 🚀
 
-🔹 **Data Science Major** with a strong foundation in computational modeling  
-🔹 Skilled in **Python, C++, R**, and exploring other branches of computing  
-🔹 Interested in **Data Science, AI, Software Engineering, and Scientific Computing**  
-🔹 Passionate about **Graph Theory, Machine Learning, and Algorithm Design**  
+I'm a passionate **Data Science major** with a strong background in **computational modeling**, **software engineering**, and **scientific computing**. I enjoy solving complex problems through data analysis, machine learning, and algorithm design.
 
 ---
 
-## 🛠️ Skills  
-✔️ **Languages:** C++ | Python | R | SQL  
-✔️ **Core Concepts:** Data Structures & Algorithms | OOP | Scientific Computing  
-✔️ **Data Science:** Data Visualization | Machine Learning | Numerical Analysis  
-✔️ **Specialized Topics:** Graph Theory | Algorithmic Optimization  
+## 💡 About Me
+- 🎓 **Data Science Major** @ Michigan State University
+- 💻 Skilled in **Python**, **C++**, **R**, and exploring advanced computing concepts
+- 🤖 Interests: **AI**, **Machine Learning**, **Software Engineering**, **Cybersecurity**, **Graph Theory**, and **Algorithm Optimization**
+- 🚀 Passionate about turning data into actionable insights and building efficient, scalable solutions
 
 ---
 
-## 📂 Portfolio Overview  
-This repository contains coursework, assignments, and personal projects from my programming and data science classes.  
-
-### 🔹 C++ Projects  
-- **Data Structures & Algorithms** (Stacks, Queues, Trees, Graphs, Sorting, Searching)  
-- **Object-Oriented Programming** (Classes, Pointers, Memory Management)  
-- **Graph Theory & Algorithmic Complexity**  
-
-### 🔹 Python Projects  
-- **Scientific Computing & Data Science** (Numerical Methods, Data Analysis, Visualization)  
-- **Machine Learning & Simulation**  
-- **Algorithmic Efficiency & Optimization**  
-
-### 🔹 R Projects  
-- **Statistical Analysis & Modeling**  
-- **Data Visualization & Regression Analysis**  
-
-📌 Explore my repositories to see my projects and coursework!  
+## 🛠️ Technical Skills
+- **Languages:** Python | C++ | R | SQL
+- **Core Concepts:** Data Structures & Algorithms | OOP | Scientific Computing | Numerical Methods
+- **Data Science & ML:** Data Wrangling | Visualization | Machine Learning | Statistical Analysis | PCA | SVM
+- **Specialized Topics:** Graph Theory | Algorithmic Optimization | Simulation Modeling
+- **Tools:** Git & GitHub | Jupyter Notebooks | RMarkdown
 
 ---
 
-## 📌 Featured Repositories  
-- **[cpp-data-structures](https://github.com/Araynah/cpp-data-structures)** - C++ Data Structures & Algorithms Projects
-- **[cpp-labs](https://github.com/Araynah/cpp-labs)** - C++ Lab Exercises & Algorithm Implementations
-- **[python-programming](https://github.com/Araynah/python-programming)** - Python Fundamentals, OOP, and Algorithms  
-- **[data-science (Python & R)](https://github.com/Araynah/data-science-coursework)** - Data Analysis & Scientific Computing  
-- **[chess-bot](https://github.com/Araynah/chess-bot)** - AI-powered Chess Game  
+## 📂 Portfolio Overview
+This GitHub portfolio highlights coursework, personal projects, and hands-on experience in **Data Science**, **Software Engineering**, and **AI**.
+
+### 🔹 **C++ Projects**
+- Advanced **Data Structures** (Trees, Graphs, Heaps)
+- **Algorithm Design & Complexity Analysis**
+- **Object-Oriented Programming** principles
+
+### 🔹 **Python Projects**
+- **Machine Learning Models** (Perceptron, SVM, PCA)
+- **Scientific Computing & Simulations**
+- Data Analysis & Visualization with `pandas`, `matplotlib`
+
+### 🔹 **R Projects**
+- **Statistical Modeling & Analysis**
+- Data Wrangling with `dplyr`, Visualization with `ggplot2`
+- Reproducible Research using **RMarkdown**
+
+📌 *Explore my repositories to see detailed implementations and projects demonstrating these skills!*
 
 ---
 
-## 📄 Certifications  
-- [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)  
+## ⭐ Featured Repositories
+- [**cpp-data-structures**](https://github.com/Araynah/cpp-data-structures) — C++ Data Structures & Algorithms Projects
+- [**cpp-labs**](https://github.com/Araynah/cpp-labs) — C++ Lab Exercises & Algorithm Implementations
+- [**python-programming**](https://github.com/Araynah/python-programming) — Python Fundamentals, OOP, and Algorithms
+- [**data-science-coursework**](https://github.com/Araynah/data-science-coursework) — Data Analysis & Scientific Computing (Python & R)
+- [**chess-bot**](https://github.com/Araynah/chess-bot) — AI-powered Chess Bot using Minimax & Alpha-Beta Pruning
 
 ---
 
-## 🤳 Connect with Me  
-
-<a href="https://twitter.com/araynah313"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="22px" /></a>
-<a href="https://linkedin.com/in/Araynah"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" /></a>
-<a href="https://www.instagram.com/Araynah/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" /></a>
-<a href="mailto:araynah1@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="22px" /></a>  
+## 📄 Certifications
+- 🎓 [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)
 
 ---
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Araynah-blue?logo=linkedin)](https://linkedin.com/in/Araynah)
+[![Twitter](https://img.shields.io/badge/Twitter-@araynah313-1DA1F2?logo=twitter)](https://twitter.com/araynah313)
+[![Instagram](https://img.shields.io/badge/Instagram-@Araynah-E4405F?logo=instagram)](https://www.instagram.com/Araynah/)
+[![Gmail](https://img.shields.io/badge/Email-araynah1@gmail.com-D14836?logo=gmail)](mailto:araynah1@gmail.com)
+
+---
+
+_Always open to collaboration, learning opportunities, and exciting projects in tech!_
