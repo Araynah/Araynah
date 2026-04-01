@@ -1,69 +1,72 @@
 # Hi, I'm Araynah! 
 
-I'm a passionate **Data Science major** with a strong background in **computational modeling**, **software engineering**, and **scientific computing**. I enjoy solving complex problems through data analysis, machine learning, and algorithm design.
+**Data Science @ Michigan State University** | Graduating May 2026  
+Building ML pipelines, working with real-world data, and applying statistical methods to problems that matter.
 
 ---
 
-## About Me
--  **Data Science Major** @ Michigan State University
--  Skilled in **Python**, **C++**, **R**, and exploring advanced computing concepts
--  Interests: **AI**, **Machine Learning**, **Software Engineering**, **Cybersecurity**, **Graph Theory**, and **Algorithm Optimization**
--  Passionate about turning data into actionable insights and building efficient, scalable solutions
+##  What I'm Working On
+
+- **MSU Capstone** — Video segmentation pipeline for RUSH medical exam training with Henry Ford Health (optical flow + Hidden Markov Models)
+- Wrapping up coursework in Machine Learning, Big Data Analysis, and Data Visualization
+
+---
+
+## Featured Projects
+
+| Project | What it does | Tools |
+|---|---|---|
+| [Medical Video Segmentation](https://github.com/Araynah/medical-video-segmentation-capstone) | Detects procedural steps in RUSH medical exams from video | Python, OpenCV, HMM, Optical Flow |
+| [Emotion Detection CNN](https://github.com/Araynah/machine-learning-projects) | Classifies facial emotions using CNNs with fairness analysis | TensorFlow, Keras, PyTorch |
+| [NFL Outcome Prediction](https://github.com/Araynah/machine-learning-projects) | Predicts NFL game winners from historical stats | Scikit-learn, Pandas, sportsdata.io API |
+| [Cyber Threat Detection](https://github.com/Araynah/machine-learning-projects) | ML pipeline for network intrusion detection on 2.1M+ records | Scikit-learn, SMOTE, Pandas |
+| [Chess AI Engine](https://github.com/Araynah/chess-bot) | Chess bot using Minimax + alpha-beta pruning | Python |
+| [C++ Data Structures](https://github.com/Araynah/cpp-data-structures) | BSTs, linked lists, graphs, queues — built from scratch | C++ |
 
 ---
 
 ## Technical Skills
-- **Languages:** Python | C++ | R | SQL
-- **Core Concepts:** Data Structures & Algorithms | OOP | Scientific Computing | Numerical Methods
-- **Data Science & ML:** Data Wrangling | Visualization | Machine Learning | Statistical Analysis | PCA | SVM
-- **Specialized Topics:** Graph Theory | Algorithmic Optimization | Simulation Modeling
-- **Tools:** Git & GitHub | Jupyter Notebooks | RMarkdown
+
+**Languages:** Python · C/C++ · SQL · R · Bash  
+**ML & Data Science:** Scikit-learn · TensorFlow · Keras · PyTorch · Pandas · NumPy  
+**Methods:** CNNs · HMMs · Random Forest · Logistic Regression · Gradient Boosting · PCA · Clustering · SMOTE · Optical Flow  
+**Tools:** Jupyter · Git · GitHub · Linux/Unix · OpenCV · Matplotlib  
+**Domains:** Healthcare ML · Sports Analytics · Cybersecurity · Computer Vision · Data Pipelines
 
 ---
 
-## Portfolio Overview
-This GitHub portfolio highlights coursework, personal projects, and hands-on experience in **Data Science**, **Software Engineering**, and **AI**.
+## Coursework Highlights
 
-### **C++ Projects**
-- Advanced **Data Structures** (Trees, Graphs, Heaps)
-- **Algorithm Design & Complexity Analysis**
-- **Object-Oriented Programming** principles
-
-### **Python Projects**
-- **Machine Learning Models** (Perceptron, SVM, PCA)
-- **Scientific Computing & Simulations**
-- Data Analysis & Visualization with `pandas`, `matplotlib`
-
-### **R Projects**
-- **Statistical Modeling & Analysis**
-- Data Wrangling with `dplyr`, Visualization with `ggplot2`
-- Reproducible Research using **RMarkdown**
-
- *Explore my repositories to see detailed implementations and projects demonstrating these skills!*
-
----
-
-## Featured Repositories
-- [**data-science-coursework**](https://github.com/Araynah/data-science-coursework) — Data Analysis & Scientific Computing (Python & R)
-- [**cpp-data-structures**](https://github.com/Araynah/cpp-data-structures) — C++ Data Structures & Algorithms Projects
-- [**cpp-labs**](https://github.com/Araynah/cpp-labs) — C++ Lab Exercises & Algorithm Implementations
-- [**python-programming**](https://github.com/Araynah/python-programming) — Python Fundamentals, OOP, and Algorithms
-- [**chess-bot**](https://github.com/Araynah/chess-bot) — AI-powered Chess Bot using Minimax & Alpha-Beta Pruning
+| Course | Topic |
+|---|---|
+| CSE 404 | Introduction to Machine Learning |
+| CSE 482 | Big Data Analysis |
+| CMSE 402 | Data Visualization Principles & Techniques |
+| CMSE 495 | Capstone — Experiential Learning in Data Science |
+| CMSE 492 | Modern Tools for Data Science |
+| CMSE 382 | Fundamentals of Data Science Methods |
+| CMSE 381 | Matrix Algebra with Computational Applications |
+| CSE 331 | Algorithm Engineering & Design |
 
 ---
 
 ## Certifications
--  [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3)
+
+- [Google Foundations of Cybersecurity](https://coursera.org/share/d813f1d3d10db3e8e1aa5971fe7fe2f3) — Coursera
 
 ---
 
-## Connect with Me
+## Beyond the Classroom
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Araynah-blue?logo=linkedin)](https://linkedin.com/in/Araynah)
-[![Twitter](https://img.shields.io/badge/Twitter-@araynah313-1DA1F2?logo=twitter)](https://twitter.com/araynah313)
-[![Instagram](https://img.shields.io/badge/Instagram-@Araynah-E4405F?logo=instagram)](https://www.instagram.com/Araynah/)
-[![Gmail](https://img.shields.io/badge/Email-araynah1@gmail.com-D14836?logo=gmail)](mailto:araynah1@gmail.com)
+**Team Manager, MSU Women's Basketball (2020–2026)** — Five years supporting a Division I program. Developed strong communication, reliability, and the ability to perform under pressure.
 
 ---
 
-_Always open to collaboration, learning opportunities, and exciting projects in tech!_
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Araynah-blue?logo=linkedin)](https://linkedin.com/in/araynah-dover)
+[![Email](https://img.shields.io/badge/Email-araynah1@gmail.com-D14836?logo=gmail)](mailto:araynah1@gmail.com)
+
+---
+
+*Always open to new opportunities, collaboration, and learning.*
